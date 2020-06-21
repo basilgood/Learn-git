@@ -11,3 +11,4 @@ test rebase with care
 test rebase with vimmerge script
 now test git-machete
 What a cool new feature
+is machete a good tool?
