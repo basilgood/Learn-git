@@ -7,4 +7,4 @@ Remove empty lines
 Beyond the future
 How cool is this
 Feature Agit vim
-test rebase with imerge
+test rebase with vimmerge script
