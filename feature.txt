@@ -8,3 +8,4 @@ Beyond the future
 How cool is this
 Feature Agit vim
 test rebase with vimmerge script
+now test git-machete
